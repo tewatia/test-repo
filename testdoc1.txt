@@ -1,10 +1,2 @@
 these are some changes to the file.
-<<<<<<< HEAD
-Master branch changes.
-
-let's create a pull conflict
-=======
-this message is for test-branch
-=======
-Master branch changes.
->>>>>>> 146202cb324613ed7742f2d13de2eb0113ed7b79
+hallelujah
